@@ -9,7 +9,7 @@ This portfolio website is designed to showcase my skills, projects, and provide 
 
 ## Demo
 
-Check out the live demo of the portfolio: [Akash's Portfolio](https://github.com/i-m-akash/Akash-s-portfolio/edit/main/README.md)
+Check out the live demo of the portfolio: [Akash's Portfolio](https://zesty-froyo-9518ef.netlify.app/)
 
 ## Features
 
